@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "240130_mysqlConnector", "240130_mysqlConnector.vcxproj", "{50D42DE3-4588-4A6E-9B12-3D443E767275}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50D42DE3-4588-4A6E-9B12-3D443E767275}.Debug|x64.ActiveCfg = Debug|x64
+		{50D42DE3-4588-4A6E-9B12-3D443E767275}.Debug|x64.Build.0 = Debug|x64
+		{50D42DE3-4588-4A6E-9B12-3D443E767275}.Debug|x86.ActiveCfg = Debug|Win32
+		{50D42DE3-4588-4A6E-9B12-3D443E767275}.Debug|x86.Build.0 = Debug|Win32
+		{50D42DE3-4588-4A6E-9B12-3D443E767275}.Release|x64.ActiveCfg = Release|x64
+		{50D42DE3-4588-4A6E-9B12-3D443E767275}.Release|x64.Build.0 = Release|x64
+		{50D42DE3-4588-4A6E-9B12-3D443E767275}.Release|x86.ActiveCfg = Release|Win32
+		{50D42DE3-4588-4A6E-9B12-3D443E767275}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F0F2F02-500A-4CDC-AB39-E2C6455189C4}
+	EndGlobalSection
+EndGlobal
